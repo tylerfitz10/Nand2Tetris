@@ -1,4 +1,8 @@
 import sys
+import os
+
+from address_hash_table import*
+from compute_hash_table import* 
 
 def aHandler()
     #pass @i or @sum convert to binary value
